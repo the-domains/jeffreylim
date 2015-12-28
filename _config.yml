@@ -1,0 +1,28 @@
+name: JeffreyLim
+favicon: null
+layout_spectrum: 0.4637435316108167
+typography_spectrum: 0.9506779920775443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6917842300608754
+  lightness: 0.023248194018378854
+  saturation: 0.8416264362167567
+  rhythmicContrast: 0.8148831997532398
+purpose: []
